@@ -1,0 +1,6 @@
+---
+title:            Owning Ethics (2019)
+author:           Jacob Metcalf, Emanuel Moss, danah boyd
+link:             ../assets/readings/ethics.pdf
+---
+---

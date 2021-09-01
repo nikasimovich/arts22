@@ -1,0 +1,6 @@
+---
+title:            "Exclusive Design (2019)"
+author:           Vasilis van Gemert
+link:             https://exclusive-design.vasilis.nl/
+---
+---

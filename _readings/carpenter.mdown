@@ -1,0 +1,6 @@
+---
+title:            A Handmade Web (2015)
+author:           J.R. Carpenter
+link:             ../assets/readings/carpenter.pdf
+---
+---

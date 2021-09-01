@@ -1,0 +1,6 @@
+---
+title:            Dark Patterns in Accessibility Tech (2019)
+author:           Chancey Fleet
+link:             https://datasociety.net/library/dark-patterns-in-accessibility-tech/
+---
+---
