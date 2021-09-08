@@ -2,14 +2,14 @@
 title:            Week 2
 start_date:       2020-01-20 00:00:00 -0500
 date_range:       09/07
-summary: I
+summary: HTML Review, Embedded Content, CSS Intro, Critique Info
 ---
 
 ### Wednesday, In Person
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) for those who can&rsquo;t attend in person
 - Remaining introduction slideshow
-- Amy presents on Olia Lialina and we[discuss]((https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BRjWBR8tFIt3tNlD9Db67EhhAQ-DPFsc5O6umbnRZ94cZyFY))
+- Amy presents on Olia Lialina and we [discuss]((https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BRjWBR8tFIt3tNlD9Db67EhhAQ-DPFsc5O6umbnRZ94cZyFY))
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-2-Notes--BR82XdkYd3aP7ITrX4RoUpbwAQ-BAFtcG7cd60j8QOXLUVPy)
 - Talk about the goals of a critique and look at Hello World gifs
 - HTML Review, embedded elements, CSS intro
