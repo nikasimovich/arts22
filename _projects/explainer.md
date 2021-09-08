@@ -12,7 +12,7 @@ At its best, the internet is a magnificent pool of information and knowledge. Le
 - Pay special attention to the typography of your instructions. How can you develop a tone of voice through the language and aesthetic choices?
 - Consider formal qualities and techniques that can help unify your type, images, and content (color, photographic treatment, size, crop, content)
 - How should the links be organized on the website? Is there consistent navigation? How does the impact change when you can see the entire set of instructions right away vs. one at a time?
-- Is your explainer most effective in a purely typographic format or does it need additional content? Consider adding captions, video, illustrations, or photos for additional context.
+- Is your explainer most effective in a purely typographic format or does it need additional content? Consider adding captions, video, illustrations, or photos for additional context. If you choose to add supporting content, think through the art direction and how you can create your own set of assets. 
 
 ### Specs
 - HTML (CSS optional)

@@ -10,7 +10,7 @@ permalink: /syllabus/index.html
     <source src="../assets/images/scrollig-too-far_whistelgraph.mp4" type="video/mp4">
   </video>
 
-  In this introductory digital design class, we’ll unpack the history of the internet and develop a framework for crafting memorable interactive experiences. We’ll start with a close study of the evolution of the internet – its origins as a read-only experience to the highly visual and expansive network of today. We’ll dissect the social conditions and cultures created online and consider the changing responsibilities of the online space. The idea of <a href="../assets/images/scrollig-too-far_whistelgraph.mp4" target="blank">“scrolling too far”</a> (TikTok video by Jeffrey Scudder, @whistelgraph)
+  In this introductory digital design class, we’ll unpack the history of the internet and develop a framework for crafting memorable interactive experiences. We’ll start with a close study of the evolution of the internet – its origins as a read-only experience to the highly visual and expansive network of today. We’ll dissect the social conditions and cultures created online and consider the changing responsibilities of the online space. The idea of <a href="../assets/images/scrollig-too-far_whistelgraph.mp4" target="blank">“scrolling too far”</a> (TikTok video by Jeffrey Scudder, @whistlegraph)
 
    and research are important aspects of the class and we’ll facilitate an environment that encourages outside interests, experimentation, and learning to teach yourself.
 </p>
