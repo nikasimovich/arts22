@@ -16,7 +16,6 @@ At its best, the internet is a magnificent pool of information and knowledge. Le
 
 ### Specs
 - HTML (CSS optional)
-- At least 10 pages
 
 ### Learning Goals
 - Develop a narrative through mixed media
@@ -25,4 +24,4 @@ At its best, the internet is a magnificent pool of information and knowledge. Le
 
 
 ### Due Date
-09/22
+09/29
