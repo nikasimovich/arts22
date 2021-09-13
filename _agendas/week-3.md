@@ -10,8 +10,7 @@ summary: CSS, Questioning Modernism and Postmodernism, Figma Intro, Typography o
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) 
 - [Discuss](https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BR_4SSpLxJGaIzQD2F4I7D7RAQ-DPFsc5O6umbnRZ94cZyFY) Crystal Goblet readings
-- Announcements: Explainer has an updated timeline, we're picking up HTML and CSS  
-  on Wednesday!
+- Announcements: Explainer has an updated timeline, we're picking up HTML and CSS on Wednesday!
 - [Today's Notes](https://paper.dropbox.com/doc/Penn-Week-3a-Notes--BSQrfbmQS7DdCitfB8JWGFfBAQ-MOGEtPpB0zSC1R0VYF0Pw)
 - Introduce Figma workspace with brief demo
 - Small group meetings to check in on Explainer ideas
@@ -21,7 +20,7 @@ summary: CSS, Questioning Modernism and Postmodernism, Figma Intro, Typography o
 
 ### Homework
 
-- Read [Loretta Staples – Typography and the Screen](http://ci17.nikasimovich.com/assets/readings/staples-typography.pdf) and watch Cyberspace Origins video. [Write a response about the reading](https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BR_4SSpLxJGaIzQD2F4I7D7RAQ-DPFsc5O6umbnRZ94cZyFY). Katherine will be the discussion leader.
+- Read [Loretta Staples – Typography and the Screen](http://ci17.nikasimovich.com/assets/readings/staples-typography.pdf) and watch Cyberspace Origins video. [Write a response about the reading](https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BR_4SSpLxJGaIzQD2F4I7D7RAQ-DPFsc5O6umbnRZ94cZyFY). Catherine will be the discussion leader.
 - [Explainer](/projects/explainer): Based on today, pick one idea to focus on. Write the content out for your project and begin collecting visual references (can be on are.na, or a folder on your computer, something you can share with the class). Start a sketch of your website design in Figma, focusing on the organization of information and the type. Your full design in Figma is due in one week Monday September 20th, and the final programmed project is due on Wednesday September 29th.
 
 ---
