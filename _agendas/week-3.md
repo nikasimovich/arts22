@@ -6,6 +6,24 @@ summary: CSS, Questioning Modernism and Postmodernism, Figma Intro, Typography o
 
 ---
 
+### Wednesday, In Person
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) 
+- Hear from Catherine about Loretta Staples and we [discuss](https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BR_4SSpLxJGaIzQD2F4I7D7RAQ-DPFsc5O6umbnRZ94cZyFY) Typography and the Screen
+- [Today's Notes](https://paper.dropbox.com/doc/Penn-Week-3b-Notes--BSYhkcXkrV1B_~ckOFquPhuyAQ-qwXeMxZdE5STq2l6O0lU0)
+- Web Typography
+- HTML and CSS Review
+- In class activity
+
+
+### Homework
+
+- [Explainer](/projects/explainer): Complete the full site design in Figma for Monday September 20th, and the final programmed project is due on Wednesday September 29th.
+- Complete the Memories in-class activity
+
+
+--
+
+
 ### Monday, On Zoom
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) 
