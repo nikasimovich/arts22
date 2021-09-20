@@ -10,7 +10,7 @@ summary: Typography continues, Explainer design review, Hovering, Basic layouts
 ### Monday, On Zoom
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) 
-- [Typography notes](https://paper.dropbox.com/doc/Penn-Week-4a-Web-Typography-Continued--BSthaugmlxCniePnXAKKzAPTAQ-AhvWG4Tdm6ipXzQJjnVRZ)
+- [Today's notes](https://paper.dropbox.com/doc/Penn-Week-4a-Web-Typography-Continued--BSthaugmlxCniePnXAKKzAPTAQ-AhvWG4Tdm6ipXzQJjnVRZ)
 - Asynchronous Hovering activity
 - Small group meetings about Explainer design
 
