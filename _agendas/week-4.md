@@ -22,8 +22,8 @@ summary: Typography continues, Explainer design review, Hovering, Basic layouts
 - Complete the Wikipedia in-class activity, we won&rsquo;t look at it until Monday 10/04
 
 
+---
 
--- 
 
 ### Monday, On Zoom
 
