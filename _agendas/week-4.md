@@ -18,7 +18,7 @@ summary: Typography continues, Explainer design review, Hovering, Basic layouts
 
 ### Homework
 
-- [Explainer](/projects/explainer): is Wednesday September 29th. On Monday we&rsquo;ll talk about uploading your work to GitHub and have individual meetings.
+- [Explainer](/projects/explainer): is due Wednesday September 29th. On Monday we&rsquo;ll talk about uploading your work to GitHub and have individual meetings.
 - Complete the Wikipedia in-class activity, we won&rsquo;t look at it until Monday 10/04
 
 
