@@ -6,6 +6,19 @@ summary: Git and Github, Explainer critique
 
 ---
 
+### Wednesday, In Person
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) for those who can&rsquo;t attend in person. We should all be in person today if possible.
+- Explainer critique!
+- Critique info and [today&rsquo;s notes](https://paper.dropbox.com/doc/Penn-Week-5b-Explainer-Critique--BTR4niUiJMUGG_goTlbiexOgAQ-Qa7ZgDFMn5o5X0k2bR3Fe)
+
+### Homework
+
+- Take a break!
+- Wikipedia exercise is due one week from today
+
+
+---
+
 ### Monday, On Zoom
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) 
