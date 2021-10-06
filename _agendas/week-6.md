@@ -16,7 +16,7 @@ summary: Flexbox, Positioning, Digital Imagery, Design process, topic versus sto
 - Wikipedia check ins in small groups
 
 ### Homework
-- Prepare two different pitches for your Fan Page project. Create a short presentation (Google slides, Figma, or PDF) that introduces each subject. Please include a visual representation, your interest in the subject, potential aspects you could focus on, and why this is worthy of a fan page in 2021. Be sure to think about how your subject is a topic rather than a story – one way of doing this is thinking about the subject as being active (for example, ikebana is a topic; but ikebana artists creating work during the pandemic becomes more of a story).
+- Prepare two different pitches for your Fan Page project. Create a short presentation (Google slides, Figma, or PDF) that introduces each subject. Please include a visual representation, your interest in the subject, potential aspects you could focus on, and why this is worthy of a fan page in 2021. Be sure to think about how your subject is a story rather than a topic – one way of doing this is thinking about the subject as being active (for example, ikebana is a topic; but ikebana artists creating work during the pandemic becomes more of a story).
 - If we had time to begin the Geometric Abstraction activity in class, complete it for Wednesday. 
 
 
