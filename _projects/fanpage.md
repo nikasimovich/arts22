@@ -30,7 +30,8 @@ index:            3
 ### Related Student Projects
 - <a href="https://soniamshah.github.io/et-cetera/index.html" target="_blank">Et Cetera – Sonia S.</a>
 - <a href="https://diluv059.github.io/projects/obsessions/index.html" target="_blank">Jellomania – Vitoria I.</a>
-- <a href="http://artfiles.rutgers.edu/~yanes@art.rutgers.edu/projects3a/p2-counterculture/index.html">Get Hype – Pauline Y.</a>
+- <a href="https://kurni452.github.io/zine/index.html">Stan Twitter and Culture: The Interview – Ivy K.</a>
+- <a href="https://fan-page-home.glitch.me/">Madonna Girl – Sarah M.</a>
 - <a href="https://leej312.github.io/studio/masterpiece/index.html">Masterpiece – Jahyun L.</a>
 
 
@@ -39,7 +40,6 @@ index:            3
 - <a href="https://fumblers.ca/" target="_blank">Fumblers.Ca</a>
 - <a href="https://www.nytimes.com/2020/12/30/arts/dance/bill-butler-empire-rollerdrome.html" target="_blank">Meet Bill Butler, the Godfather of Roller Disco – Julia Carmel</a> (Example of a profile)
 
-- 
 
 ### Due Date
-10/20
+10/25
