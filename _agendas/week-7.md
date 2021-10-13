@@ -15,7 +15,7 @@ summary: Presenting design work, design process, positioning, CSS animations
 
 ### Homework
 - For  Monday: pick an idea for your fan page project to foucs on. Create a plan for how you will develop the content and have an outline of the content you&rsquo;ll use on the website. Create a short design presentation that introduces 3 different concepts for the look and feel of your site. Each direction should have a title and description, a mood board of visual references, and a gestural sketch of the homepage or part of the site. 
-- Complete the CSS animation in class activity and submit on Canvas
+- Complete the CSS animation in class activity and submit on Canvas for Wednesday
 
 
 ---
