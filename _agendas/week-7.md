@@ -2,7 +2,7 @@
 title:            Week 7
 start_date:       2020-01-20 00:00:00 -0500
 date_range:       10/11
-summary: Presenting design work, design process, positioning, CSS animations
+summary: Presenting design work, design process, visual research workshop, CSS animations
 
 ---
 
