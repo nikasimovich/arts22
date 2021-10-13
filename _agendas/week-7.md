@@ -9,7 +9,7 @@ summary: Presenting design work, design process, positioning, CSS animations
 ### Wednesday, In Person
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) for those who can&rsquo;t attend in person. We should all be in person today if possible.
 - [Today&rsquo;s notes](https://paper.dropbox.com/doc/Penn-Week-7b-Visual-Research-Workshop-CSS-Animations--BUIYZpTjZCrIaU3Vf~8BU8YxAQ-xRXF6faRzvwvliUklIin9)
-- Hear from Egret about [The Tyranny of Terrazzo Will the millennial aesthetic ever end? – Molly Fischer](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) and we discuss.
+- Hear from Egret about [The Tyranny of Terrazzo Will the millennial aesthetic ever end? – Molly Fischer](https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html) and [respond on the document](https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BTnHYPjTk_pbD8IK7pD8MPImAQ-DPFsc5O6umbnRZ94cZyFY) and we discuss.
 - Visual research workshop
 - CSS animations and SVGs
 
