@@ -16,8 +16,8 @@ summary: Guest lecture, project check in, design systems and libraries, mobile d
 - Mobile design considerations
 
 ### Homework
-- For Monday: based on today&rsquo;s feedback, select one visual direction to move forward with. Sketch out a complete design for your website. Include one mobile screen.
-- Reading [Exclusive Design](https://exclusive-design.vasilis.nl/). Sarah is the discussion leader
+- For Monday: based on Monday&rsquo;s feedback, select one visual direction to move forward with. Sketch out a complete design for your website. Include one mobile screen.
+- Reading [Exclusive Design](https://exclusive-design.vasilis.nl/). Sarah is the discussion leader.
 
 
 ---
