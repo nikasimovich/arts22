@@ -5,6 +5,22 @@ date_range:       10/25
 summary: Midterm meetings, Fan Page check in, Web Accessibility, Code Review, Intro to JavaScript
 ---
 
+### Wednesday, In Person
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) 
+- [Today's notes](https://paper.dropbox.com/doc/Penn-Week-9b-Intro-to-JavaScript--BVCYM7yljIa2WtUEFpkpKpmtAQ-6ojvOdzlOj8TluzsM5nfV)
+- Hear from Sylvia about Black Gooey Universe and we talk about this and Dark Patterns in Accessibility Tech
+- JavaScript intro
+- Continue working on Building on an Interface
+
+### Homework
+
+- For next Monday: begin programming and develop a fair amount of progress on your Fan Page. We will do a few code refreshers on Monday and check in.
+
+
+---
+
+
 ### Monday, On Zoom
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) 
