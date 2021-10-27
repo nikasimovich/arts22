@@ -15,7 +15,7 @@ summary: Midterm meetings, Fan Page check in, Web Accessibility, Code Review, In
 
 ### Homework
 
-- For next Monday: begin programming and develop a fair amount of progress on your Fan Page. We will do a few code refreshers on Monday and check in.
+- For Monday: begin programming and develop a fair amount of progress on your Fan Page. We will do a few code refreshers on Monday and check in.
 
 
 ---
