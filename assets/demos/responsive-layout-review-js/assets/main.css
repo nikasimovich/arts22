@@ -177,12 +177,20 @@ li {
   cursor:  pointer;
 }
 
+.show {
+  display:  flex;
+}
+
 .hide {
-  display:  none;
+  display: none;
 }
 
 .mobile-nav-button {
   display:  none;
+}
+
+.mobile-nav-button:hover {
+  cursor: pointer;
 }
 
 /* Media Query for mobile styles*/
