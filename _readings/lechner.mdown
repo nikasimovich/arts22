@@ -1,6 +1,6 @@
 ---
 title:            What a Line Can Say Investigating the Semiotic Potential of the Connecting Line in Data Visualizations (2020)
 author:           Verena Elisabeth Lechner
-link:             https://frankchimero.com/blog/2015/the-webs-grain/
+link:             ../assets/readings/whatalinecansay_lechnerverenaelisabeth.pdf
 ---
 ---
