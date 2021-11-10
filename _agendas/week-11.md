@@ -2,7 +2,7 @@
 title:            Week 11
 start_date:       2021-10-20 00:00:00 -0500
 date_range:       11/08
-summary: Fan Page critique, Introduce Personal Data
+summary: Fan Page critique, JavaScript libraries
 ---
 
 ### Wednesday, In Person
