@@ -12,6 +12,8 @@ As a class, we'll explore biases in data visualizations, algorithms and technolo
 
 In class, we&rsquo;ll look at ways to use JavaScript to sort and highlight your data. Your project can take any web-based form, however, and is not required to use JavaScript. The most important aspects of the project are that your data tell a complete story, and the visual design and interactions are considered and supportive.
 
+You should collect the data on your own, and can use any media to visualize it.
+
 
 ### Due date
 12/08
