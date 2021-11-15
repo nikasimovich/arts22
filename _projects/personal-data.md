@@ -10,5 +10,8 @@ Data is everywhere. It exists in many formats and is a powerful storytelling too
 
 As a class, we'll explore biases in data visualizations, algorithms and technology. We’ll explore different ways of image-making and evaluate how our graphics can meaningfully tell a narrative. We’ll explore the data collection process by collecting our own data and thinking through how to best organize it. We’ll then use that data to develop a form that can be viewed in multiple formats and consider how the visualization tells different stories through interaction.
 
+In class, we&rsquo;ll look at ways to use JavaScript to sort and highlight your data. Your project can take any web-based form, however, and is not required to use JavaScript. The most important aspects of the project are that your data tell a complete story, and the visual design and interactions are considered and supportive.
+
+
 ### Due date
 12/08
