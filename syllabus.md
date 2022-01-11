@@ -22,7 +22,7 @@ While we’ll explore developing content and tools for publishing online, it’s
 
 ### Class Homepage
 
-artf21.labud.nyc
+arts22.labud.nyc
 
 ### Instructor
 
@@ -179,14 +179,14 @@ Participation in group critiques is an essential part of the class. Even if you&
 
 As a class, we will draft a communal agreement that sets guidelines for respect and etiquette in the classroom. Students are responsible for maintaining this standard throughout the semester. The University of Pennsylvania has a unique, representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in and outside of the classroom.
 
-[View Our Code of Conduct](https://paper.dropbox.com/doc/F21-Penn-Art-of-the-Web-Names-and-Code-of-Conduct--BRhmo1RPfQg72gC5uOHvFKaTAQ-swtCTmyzickzVJXnrZTtP)
+[View Our Code of Conduct](https://paper.dropbox.com/doc/S22-Penn-Art-of-the-Web-Names-and-Code-of-Conduct--BZyIpileKpm9CKNApC6E~O6eAQ-FiuiPMyRfGCBprus2qryj)
 
 ### Distanced Learning Guidelines
 <br/>
 <p style="clear: both;">
 <img src="../assets/images/zenon.jpg" width="250px" class="syllabus-img">
 
-This class will be hybrid for the  duration of the Fall 2021 semester. We will incorporate both synchronous and asynchronous learning methods and utilize a variety of tools to help create a community in both the physical and virtual classrooms. When we meet on Zoom on Mondays, please follow these guidelines: 
+This class will be hybrid for the  duration of the Spring 2022 semester. We will incorporate both synchronous and asynchronous learning methods and utilize a variety of tools to help create a community in both the physical and virtual classrooms. When we meet on Zoom on Mondays, please follow these guidelines: 
 </p>
 - When possible, aim to be in a quiet, well lit room.
 - Utilize Zoom backgrounds if that makes you more comfortable.
