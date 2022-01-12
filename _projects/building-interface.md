@@ -26,6 +26,3 @@ index:            3
 - <a href="https://co-matter.com/work/charles-broskoski-the-story-behind-are-na">Co-Matter Podcast: The Story Behind Are.na</a>
 - <a href="../assets/readings/ethics.pdf" target="_blank">Owning Ethics – Jacob Metcalf, Emanuel Moss, danah boyd</a>
 
-
-### Due Dates
-- TBD

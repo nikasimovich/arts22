@@ -31,5 +31,5 @@ index:            1
 - <a href="https://gifcities.org/" target="_blank">Gifcities</a>
 
 ### Due Date
-- 09/08
+- 01/19
 - Gif must be uploaded to Canvas

@@ -39,7 +39,3 @@ index:            3
 - <a href="https://anthology.rhizome.org/one-terabyte-of-kilobyte-age" target="_blank">One Terabyte of Kilobyte Age</a>
 - <a href="https://fumblers.ca/" target="_blank">Fumblers.Ca</a>
 - <a href="https://www.nytimes.com/2020/12/30/arts/dance/bill-butler-empire-rollerdrome.html" target="_blank">Meet Bill Butler, the Godfather of Roller Disco – Julia Carmel</a> (Example of a profile)
-
-
-### Due Date
-11/08

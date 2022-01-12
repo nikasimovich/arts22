@@ -22,6 +22,3 @@ At its best, the internet is a magnificent pool of information and knowledge. Le
 - Think through website organization
 - Familiarize ourselves with HTML
 
-
-### Due Date
-09/29
