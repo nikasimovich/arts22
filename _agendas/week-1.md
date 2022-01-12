@@ -20,7 +20,7 @@ summary: Intros, Hello World
 ### Homework
 - [Review asynchronous notes: Gifs 101](https://paper.dropbox.com/doc/GIFS-101--A60iRc0JBLuk3FeEGh~JqNVYAQ-xZsnAlXPM4FWaWCXelHPm)
 - Complete activity: [Hello World](../projects/hello-world)
-- Reading: [A Vernacular Web – Olia Lialina](http://art.teleportacia.org/observation/vernacular/) and Amy is the discussion leader.
+- Reading: [A Vernacular Web – Olia Lialina](http://art.teleportacia.org/observation/vernacular/) and Sherry is the discussion leader.
 - Rest of class posts a [discussion comment, reflection, or question on our reading doc](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BZyDbjpCH0SoN0cA6huQjmjjAQ-1UUZlQIbgmKjouZ5Tl2TE)
 - Everything is due on Wednesday. Please upload Hello World to Canvas.
 
