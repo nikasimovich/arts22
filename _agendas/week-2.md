@@ -20,7 +20,7 @@ summary: HTML Review, Embedded Content, CSS Intro, Critique Info
 ### Homework
 - Reminder, our next session is in person on Monday.
 - Create a presentation (PDF, Slides, Dropbox Paper...) that highlights three different ideas for your [Explainer](/projects/explainer) project. For each one, describe the feature you&rsquo;d like to teach the class, your interest in it, and a few examples of existing research around this. Consider what kind of content you&rsquo;d need to tell this story.
-- Read [The Crystal Goblet – Beatrice Warde](http://ci17.nikasimovich.com/assets/readings/warde-beatrice_the-crystal-goblet.pdf), [Drowning the Crystal Goblet – Matthew Butterick](https://practicaltypography.com/drowning-the-crystal-goblet.html), and [What&rsquo;s Crystal Goblet in Korean – Jiwon Lee](https://designobserver.com/article.php?id=29138) and [write a response](https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BR_4SSpLxJGaIzQD2F4I7D7RAQ-DPFsc5O6umbnRZ94cZyFY) that compares all three readings.
+- Read [The Crystal Goblet – Beatrice Warde](http://ci17.nikasimovich.com/assets/readings/warde-beatrice_the-crystal-goblet.pdf), [Drowning the Crystal Goblet – Matthew Butterick](https://practicaltypography.com/drowning-the-crystal-goblet.html), and [What&rsquo;s Crystal Goblet in Korean – Jiwon Lee](https://designobserver.com/article.php?id=29138) and [write a response](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BZyDbjpCH0SoN0cA6huQjmjjAQ-1UUZlQIbgmKjouZ5Tl2TE) that compares all three readings.
 - Optional: Read through the notes from today and try the "Practice" activities. We will go over next week.
 
 ---
