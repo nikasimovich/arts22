@@ -8,7 +8,6 @@ summary: HTML Review, Embedded Content, CSS Intro, Critique Info
 ### Wednesday, On Zoom
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
-- Remaining introduction slideshow
 - Sherry presents on Olia Lialina and we [discuss](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BZyDbjpCH0SoN0cA6huQjmjjAQ-1UUZlQIbgmKjouZ5Tl2TE)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-2-Notes--BR82XdkYd3aP7ITrX4RoUpbwAQ-BAFtcG7cd60j8QOXLUVPy)
 - Talk about the goals of a critique and look at Hello World gifs
