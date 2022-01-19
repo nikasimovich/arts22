@@ -1,7 +1,7 @@
 ---
 title:            Week 2
 start_date:       2021-01-20 00:00:00 -0500
-date_range:       01/16
+date_range:       01/19
 summary: HTML Review, Embedded Content, CSS Intro, Critique Info
 ---
 
