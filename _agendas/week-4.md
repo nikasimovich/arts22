@@ -19,7 +19,7 @@ summary: Typography cotinues, CSS continues, Hovering, Flexbox Intro, Media Quer
 ### Homework
 - Explainer is due on 02/14. Please have a revised design in Figma and an online draft for Monday
 - Wikipedia activity is due on 02/09
-- Read [A Handmade Web](http://arts22.labud.nyc/assets/readings/carpenter.pdf) and write a [discussion question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BbJ6T5rVvfWn94KhpzZhFNXUAQ-1UUZlQIbgmKjouZ5Tl2TE). Larry is the discussion leader.
+- Read [A Handmade Web](http://arts22.labud.nyc/assets/readings/carpenter.pdf) and write a [discussion question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BbJ6T5rVvfWn94KhpzZhFNXUAQ-1UUZlQIbgmKjouZ5Tl2TE). Sherry is the discussion leader.
 
 ### Monday, In Person
 
