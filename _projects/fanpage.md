@@ -14,7 +14,7 @@ index:            3
     This project is an editorial exercise and not a book report – in other words, it needs to be interesting. Consider how you can communicate a facet of your subject that hasn’t been addressed before, or a new take on an existing idea. Specifity and highlighting your own interest is in the subject goes a long way.
   </p>
   <p>
-    The format of the content is open to interpretation. You could consider a question-and-answer style interview, a curated visual study, a narrative driven video, a mixed media research piece about the subject. Think about what kinds of content (text, images, videos, animation) tell the clearest story and most memorable story. While we’re looking to the past for this project conceptually, the design of the website should feel like it is from 2021 and designed with a contemporary design sensibility.
+    The format of the content is open to interpretation. You could consider a question-and-answer style interview, a curated visual study, a narrative driven video, a mixed media research piece about the subject. Think about what kinds of content (text, images, videos, animation) tell the clearest story and most memorable story. While we’re looking to the past for this project conceptually, the design of the website should feel like it is from 2022 and designed with a contemporary design sensibility.
   </p>
 
 
