@@ -18,7 +18,7 @@ summary: Explainer critique
 
 ### Homework
 - For next Monday: select one of your two ideas for your Fan Page project. Create a plan for how you will develop the content and have an outline of the content you’ll use on the website. Create a short design presentation that introduces 3 different visual concepts for the look and feel of your site. Each direction should have a title and description, a mood board of visual references, and a gestural sketch of the homepage or part of the site.
-- Read [The Tyranny of Terrazzo Will the millennial aesthetic ever end? – Molly Fischer](https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html) and [respond on the document](https://paper.dropbox.com/doc/Penn-Art-of-Web-F21-Reading-Reflections--BTnHYPjTk_pbD8IK7pD8MPImAQ-DPFsc5O6umbnRZ94cZyFY). Larry will be the discussion leader.
+- FOR WED: Read [The Tyranny of Terrazzo Will the millennial aesthetic ever end? – Molly Fischer](https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html) and [respond on the document](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BbJ6T5rVvfWn94KhpzZhFNXUAQ-1UUZlQIbgmKjouZ5Tl2TE). Larry will be the discussion leader.
 Everyone else will [respond on the document](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BbJ6T5rVvfWn94KhpzZhFNXUAQ-1UUZlQIbgmKjouZ5Tl2TE)
 
 ---
