@@ -1,8 +1,23 @@
 ---
 title:            Week 7
 start_date:       2021-01-20 00:00:00 -0500
-date_range:       02/14
-summary: Explainer critique
+date_range:       02/21
+summary: Visual research, sourcing images, design process, project development
+
+---
+
+### Wednesday, Online
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-7b-Project-Check-In--Bceme2GE0UN8H4Qb_hKVMiqgAQ-Wtyzc7C9QFpfAg7qRybg6)
+- Hear from Larry about The Tyranny of Terrazzo and we discuss
+- CSS Animations show and tell and common issues
+- Continue working on visual workshop while I meet with you one on one about your project
+
+### Homework
+- - For Monday: select one of your two ideas for your Fan Page project. Create a plan for how you will develop the content and have an outline of the content you’ll use on the website. Create a short design presentation that introduces 3 different visual concepts for the look and feel of your site. Each direction should have a title and description, a mood board of visual references, and a gestural sketch of the homepage or part of the site.
+
+
 
 ---
 
