@@ -6,6 +6,20 @@ summary: JavaScript Intro, Fan Page development, Midterm Check In
 
 ---
 
+### Wednesday, Online
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-8b-Notes-Midterm-Reviews-and-Peer-Meetings-on-Slack--Bc5lMkSFpr4pG0Rb2xMJDcPXAQ-6fJpuaU0st7o9alxd8x2H)
+- Announcements
+- Midterm Reviews
+- Slack Group session
+
+### Homework
+- Fan Page is due on 03/17
+- Have a good Spring break!
+
+---
+
 
 ### Monday, In Person
 
