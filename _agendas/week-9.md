@@ -9,11 +9,13 @@ summary: JavaScript continues, Fan Page development
 ### Wednesday, Asynchronous Meeting
 
 - Watch [Linked by Air Design Lecture](https://vimeo.com/87572284)
-- Use the class period to work indepdently
+- Use the class period to work independently
 - In your Slack channel, send me a question or update about your Fan Page by 5pm. I will get back to you later tonight.
 
 ### Homework
 - Fan Page is due on Monday
+
+---
 
 ### Monday, In Person
 
