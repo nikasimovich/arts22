@@ -6,8 +6,9 @@ summary: Fan Page critique, Designing systems
 
 ---
 
-### Wednesday, Asynchronous Meeting
+### Wednesday, Online Meeting
 
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - Hear from Antonia about [Black Gooey Universe – American Artist](https://unbag.net/end/black-gooey-universe) and we [discuss](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BbJ6T5rVvfWn94KhpzZhFNXUAQ-1UUZlQIbgmKjouZ5Tl2TE).
 - [Today's notes](https://paper.dropbox.com/doc/Penn-Week-10b-Designing-an-Interface-Work-Session--BeMwwcSCHBBmaAjB4vwH8CtlAQ-a7f6D7XuqbYfgzNuu3SxY)
 - Work on Building on an Interface
