@@ -16,7 +16,7 @@ summary: Fan Page critique, Designing systems
 
 ### Homework
 - Reading [Exclusive Design](https://exclusive-design.vasilis.nl/). Jason is the discussion leader, everyone else writes a comment or question on the [doc](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BbJ6T5rVvfWn94KhpzZhFNXUAQ-1UUZlQIbgmKjouZ5Tl2TE)
-- Refine your idea for Building on an Interface. In Figma, create a userflow or list of all the necessary pages needed to complete your feature. Create a lo-fidelity wireframe at a mobile screen size that highlights this action.
+- Refine your idea for Building on an Interface. In Figma, create a userflow or list of all the necessary pages needed to complete your feature. We will look at the shared Figma document in class.
 
 
 ---
