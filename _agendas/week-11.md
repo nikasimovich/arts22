@@ -2,9 +2,27 @@
 title:            Week 11
 start_date:       2022-03-20 00:00:00 -0500
 date_range:       03/28
-summary: Web accessibility, JavaScript Libraries
+summary: Web accessibility, Building on an Interface
 
 ---
+
+### Wednesday, Online Meeting
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-11b-Testing-Iterating-Finalizing--BeqT2gQL2eyg5_WJBpiJqfPHAQ-Hm2gckYtXjFVlFJzug1zC)
+- User testing activity
+- Feedback on prototype
+- Revise prototype and work on final draft
+
+
+### Homework
+- Building on an Interface is due on Tuesday. Review [today&rsquo;s notes](https://paper.dropbox.com/doc/Penn-Week-11b-Testing-Iterating-Finalizing--BeqT2gQL2eyg5_WJBpiJqfPHAQ-Hm2gckYtXjFVlFJzug1zC) for the full list of deliverables.
+
+
+
+---
+
+
 
 ### Monday, In Person
 
