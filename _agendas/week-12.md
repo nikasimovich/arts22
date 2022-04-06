@@ -6,6 +6,29 @@ summary: Data Visualizations, JavaScript Libraries, Web Sustainability
 
 ---
 
+
+### Wednesday, Online Meeting
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Art-of-the-Web-S22-Week-12b--BfHT~~JcEUZ2wHGLLcVRl6DjAQ-ITNYhCASpaTOnd8qNACHb)
+- Hear from Cindy about Joana Moll
+- Web sustainability
+- Looking at data visualizations activity
+- Handmade data visualization activity
+- Meet about Personal Data ideas in small groups
+- Shivam Sinha joins our class at 3:15 PM for a guest lecture
+
+### Homework
+- Collect all your data by next Thursday
+- Complete your handdrawn Data Visualization and submit it on Canvas and paste it in the Figma Channel
+- Read [Chapter 2 from Data Feminism – Catherine D'Ignazio and Lauren Klein](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and write a [discussion question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BfF4wj5nk1KpYm3zoiiQqhWfAQ-1UUZlQIbgmKjouZ5Tl2TE).
+- Cecily will be the discussion leader
+
+
+
+---
+
+
 ### Monday, In Person
 
 - Review Building on an Interface prototypes
