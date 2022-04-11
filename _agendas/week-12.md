@@ -19,7 +19,7 @@ summary: Data Visualizations, JavaScript Libraries, Web Sustainability
 - Shivam Sinha joins our class at 3:15 PM for a guest lecture
 
 ### Homework
-- Collect all your data by next Thursday
+- Collect all your data by this Wednesday
 - Complete your handdrawn Data Visualization and submit it on Canvas and paste it in the Figma Channel
 - Read [Chapter 2 from Data Feminism – Catherine D'Ignazio and Lauren Klein](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and write a [discussion question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S22-Reading-Reflections--BfF4wj5nk1KpYm3zoiiQqhWfAQ-1UUZlQIbgmKjouZ5Tl2TE).
 - Cecily will be the discussion leader
