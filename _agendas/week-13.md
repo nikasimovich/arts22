@@ -9,12 +9,14 @@ summary: Working with Data, Biases in Design
 ### Wednesday, Online Meeting
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Art-of-the-Web-S22-Week-12b--BfHT~~JcEUZ2wHGLLcVRl6DjAQ-ITNYhCASpaTOnd8qNACHb)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-13b-JavaScript-Objects-and-Libraries--BfjfjeBPODun2aWRECBMW9vmAQ-lZrF2CnNrONdTNdt1ivqc)
 - Demos
 - Work session
 
 ### Homework
 - Have a complete sketch of your Personal Data project in Figma for Monday
+
+--- 
 
 
 ### Monday, In Person
