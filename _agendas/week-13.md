@@ -15,7 +15,7 @@ summary: Working with Data, Biases in Design
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Week-13a-Biases-in-design-Data-Visualization-with-JSON-JavaScript-Objects--BfaHtoveLvRzq~vaA6LvZpWMAQ-0h6v8otLLizq3Izw37ED8)
 
 ### Homework
-- Finish collecting all your data by next Thursday
+- Finish collecting all your data by Wednesday
 - Finish your digital revision of the handmade visualization
 
 
