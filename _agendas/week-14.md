@@ -6,6 +6,21 @@ summary: p5.js, project development
 
 ---
 
+### Wednesday, Online Meeting
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Art-of-the-Web-S22-Week-12b--Bf9gknq47WXUG0UYOnhG4g2rAQ-jeUG3PGihdtwBWw36eaZY)
+- Hear from Rachel about New Ways of Seeing and we discuss
+- p5.js show and tell
+- Final project work day with office hours
+
+### Homework
+- Keep working on your Personal Data project which is due one week from today
+
+--- 
+
+
+
 ### Monday, In Person
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-14a-p5--Bf3pLS2WXfLgkq3BFeAwkrkFAQ-tTWFOWquPvtOFXV9MfEVB)
