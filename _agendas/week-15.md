@@ -6,6 +6,20 @@ summary: 3D online, Final critique
 ---
 
 
+### Wednesday, Online Meeting
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Final-Critique-Personal-Data--BgZFX75LxFl33BuZIsaPj5CIAQ-YbgdF5Go1xH8EG1JaXrFY)
+- Final critique
+
+### Homework
+- If you&rsquo;re planning on resubmitting an assignment, you have until one week from Wednesday.
+- Have a good spring summer season!
+
+--- 
+
+
+
 
 ### Monday, In Person
 
